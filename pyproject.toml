@@ -29,8 +29,8 @@ dev = ["pytest>=7", "pytest-cov"]
 biopython = ["biopython>=1.81"]
 
 [project.urls]
-Homepage = "https://github.com/CameronPiepkorn/archaeal-sgrna-designer"
-"Bug Tracker" = "https://github.com/CameronPiepkorn/archaeal-sgrna-designer/issues"
+Homepage = "https://github.com/CameronCat/archaeal-sgrna-designer"
+"Bug Tracker" = "https://github.com/CameronCat/archaeal-sgrna-designer/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

@@ -7,9 +7,10 @@ type: software
 version: 1.0.0
 date-released: "2026-04-08"
 authors:
-  - family-names: Piepkorn
+  - family-names: Pham
     given-names: Cameron
-    affiliation: Independent Researcher
+    affiliation: UC Berkeley
+    orcid: "https://orcid.org/0009-0005-8364-8420"
 abstract: >-
   archaeal-sgrna-designer is a Python library for designing and
   ranking sgRNA candidates for archaeal CRISPR-Cas9 genome editing.
@@ -30,8 +31,8 @@ keywords:
   - bioinformatics
   - guide RNA design
 license: MIT
-repository-code: "https://github.com/CameronPiepkorn/archaeal-sgrna-designer"
-url: "https://github.com/CameronPiepkorn/archaeal-sgrna-designer"
+repository-code: "https://github.com/CameronCat/archaeal-sgrna-designer"
+url: "https://github.com/CameronCat/archaeal-sgrna-designer"
 references:
   - type: article
     authors:

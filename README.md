@@ -5,7 +5,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19506160.svg)](https://doi.org/10.5281/zenodo.19506160)
 # archaeal-sgrna-designer
 
-[![CI](https://github.com/CameronPiepkorn/archaeal-sgrna-designer/actions/workflows/ci.yml/badge.svg)](https://github.com/CameronPiepkorn/archaeal-sgrna-designer/actions)
+[![CI](https://github.com/CameronCat/archaeal-sgrna-designer/actions/workflows/ci.yml/badge.svg)](https://github.com/CameronCat/archaeal-sgrna-designer/actions)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -41,7 +41,7 @@ Built to support research following:
 pip install archaeal-sgrna-designer
 
 # From source
-git clone https://github.com/CameronPiepkorn/archaeal-sgrna-designer
+git clone https://github.com/CameronCat/archaeal-sgrna-designer
 cd archaeal-sgrna-designer
 pip install -e ".[dev]"
 ```

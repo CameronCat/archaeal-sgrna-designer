@@ -27,7 +27,7 @@ Open an issue describing:
 ## Development setup
 
 ```bash
-git clone https://github.com/CameronPiepkorn/archaeal-sgrna-designer
+git clone https://github.com/CameronCat/archaeal-sgrna-designer
 cd archaeal-sgrna-designer
 pip install -e ".[dev]"
 pytest
